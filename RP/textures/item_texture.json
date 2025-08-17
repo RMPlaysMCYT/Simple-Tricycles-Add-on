@@ -1,0 +1,17 @@
+//bridge-file-version: #0
+{
+	"texture_data": {
+		"tricycle_1_spawn_egg": {
+			"textures": [
+				"textures/items/tricycle_1_spawn_egg"
+			]
+		},
+		"tricycle_2_spawn_egg": {
+			"textures": [
+				"textures/items/tricycle_1_spawn_egg"
+			]
+		}
+	},
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.items"
+}

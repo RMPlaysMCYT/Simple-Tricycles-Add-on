@@ -1,0 +1,35 @@
+##bridge-file-version: #3
+pack.name=Simple Tricycle Add-on RP
+pack.description=This Addon adds 5 tricycles in minecraft only works on 1.20.30 and above
+
+#################################################
+##  Entity Names
+#################################################
+entity.rmtricycle2:tricycle_1.name=Tricycle 1 [Standard]
+entity.rmtricycle2:tricycle_2.name=Tricycle 2 [Standard]
+entity.rmtricycle2:tricycle_3.name=Tricycle 3 [Double Decker]
+entity.rmtricycle2:tricycle_4.name=Tricycle 4 [Body Rotated Up]
+entity.rmtricycle2:tricycle_5.name=Tricycle 5 [Higher Version]
+#################################################
+##  Spawn Egg Names
+#################################################
+item.spawn_egg.entity.rmtricycle2:tricycle_1.name=Spawn Tricycle 1 [Standard]
+item.spawn_egg.entity.rmtricycle2:tricycle_2.name=Spawn Tricycle 2 [Standard]
+item.spawn_egg.entity.rmtricycle2:tricycle_3.name=Spawn Tricycle 3 [Double Decker]
+item.spawn_egg.entity.rmtricycle2:tricycle_4.name=Spawn Tricycle 4 [Body Rotated Up]
+item.spawn_egg.entity.rmtricycle2:tricycle_5.name=Spawn Tricycle 5 [Higher Version]
+#################################################
+##  Item Names
+#################################################
+
+#################################################
+##  Armor Names
+#################################################
+
+#################################################
+##  Block Names
+#################################################
+
+#################################################
+##  Hint Names
+#################################################

@@ -1,0 +1,46 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Simple Tricycle Add-on",
+	"namespace": "rmtricycle2",
+	"authors": [
+		"RMPlaysMC YT"
+	],
+	"targetVersion": "1.20.30",
+	"description": "This Addon adds 5 tricycles in minecraft only works on 1.20.30 and above",
+	"experimentalGameplay": {
+		"creationOfCustomBiomes": false,
+		"upcomingCreatorFeatures": false,
+		"enableGameTestFramework": false,
+		"focusTargetCamera": false,
+		"dataDrivenJigsawStructures": false,
+		"aimAssist": false,
+		"educationEdition": false
+	},
+	"bdsProject": false,
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"generatorScripts",
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "Simple Tricycle Add-on"
+				}
+			]
+		]
+	}
+}

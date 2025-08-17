@@ -1,0 +1,52 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "rmtricycle2:tricycle_5",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"black": "textures/entity/tricycle_5",
+				"red": "textures/entity/tricycle_5/tricycle_5_red",
+				"green": "textures/entity/tricycle_5/tricycle_5_green",
+				"brown": "textures/entity/tricycle_5/tricycle_5_brown",
+				"blue": "textures/entity/tricycle_5/tricycle_5_blue",
+				"purple": "textures/entity/tricycle_5/tricycle_5_purple",
+				"cyan": "textures/entity/tricycle_5/tricycle_5_cyan",
+				"silver": "textures/entity/tricycle_5/tricycle_5_light_gray",
+				"gray": "textures/entity/tricycle_5/tricycle_5_gray",
+				"pink": "textures/entity/tricycle_5/tricycle_5_pink",
+				"lime": "textures/entity/tricycle_5/tricycle_5_lime",
+				"yellow": "textures/entity/tricycle_5/tricycle_5_yellow",
+				"light_blue": "textures/entity/tricycle_5/tricycle_5_light_blue",
+				"magenta": "textures/entity/tricycle_5/tricycle_5_magenta",
+				"orange": "textures/entity/tricycle_5/tricycle_5_orange",
+				"white": "textures/entity/tricycle_5/tricycle_5_white"
+			},
+			"geometry": {
+				"default": "geometry.tricycle_5"
+			},
+			"render_controllers": [
+				"controller.render.tricycle_1"
+			],
+			"animations": {
+				"drive": "animation.tricycle_1.drive"
+			},
+			"scripts": {
+				"initialize": [
+					"variable.steering = 0;"
+				],
+				"pre_animation": [
+					"query.has_rider ? (variable.steering = Math.lerp(variable.steering, query.yaw_speed, 0.15));"
+				],
+				"animate": [
+					"drive"
+				]
+			},
+			"spawn_egg": {
+				"texture": "tricycle_1_spawn_egg"
+			}
+		}
+	}
+}
