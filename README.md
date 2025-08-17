@@ -1,41 +1,22 @@
 # Simple Tricycles Add-on
 
-Anyway this is the rebooted version since I'm not active to my second account but this could be the better version unlike the older one before and it could up 16 colors to try and it has more suits to try
+This addon adds more and It can carry up to 2-4 players at one vehicle others can carry up to 6 players and each of them can be paintable up to 16 variants but also it works both official versions and BETA(Preview Versions) 
 
-Clothes on the list:
+![](https://r2.mcpedl.com/submissions/197701/images/simple-tricycle-addon_2.png)
 
-*   Motorcycle Helmet
-*   Cap
-*   T-shirt
-*   Jacket
-*   Pants
-*   Shoes
-*   Biker Helmet
-*   Mortarhead (or this can be called Graduation Cap)
-*   Toga
-*   Sando (White Tank)
+![](https://r2.mcpedl.com/submissions/197701/images/simple-tricycle-addon_3.png)
 
-![](https://r2.mcpedl.com/submissions/185929/images/simple-suits-addon-rebooted-v100_2.png)
+![](https://r2.mcpedl.com/submissions/197701/images/simple-tricycle-addon_4.png)
 
-![](https://r2.mcpedl.com/submissions/185929/images/simple-suits-addon-rebooted-v100_3.png)
+![](https://r2.mcpedl.com/submissions/197701/images/simple-tricycle-addon_5.png)
 
-Here's the snapshot of the clothes anyway 
+Here's the new video showcase and I hope you enjoy:
 
-![](https://r2.mcpedl.com/submissions/185929/images/simple-suits-addon-rebooted-v100_4.png)
+<div class="embed-iframe"><iframe class="lazyLoad isLoaded" src="https://youtube.com/embed//IvYblvl-ugM" width="640" height="360" frameborder="0"></iframe></div>
 
-![](https://r2.mcpedl.com/submissions/185929/images/simple-suits-addon-rebooted-v100_5.png)
+I've been working on adding new features in the next update and also adding new designs and styles on each new tricycle so that to make this addon getting better
 
-![](https://r2.mcpedl.com/submissions/185929/images/simple-suits-addon-rebooted-v100_6.png)
-
-![](https://r2.mcpedl.com/submissions/185929/images/simple-suits-addon-rebooted-v100_7.png)
-
-![](https://r2.mcpedl.com/submissions/185929/images/simple-suits-addon-rebooted-v100_8.png)
-
-![](https://r2.mcpedl.com/submissions/185929/images/simple-suits-addon-rebooted-v100_9.png)
-
-![](https://r2.mcpedl.com/submissions/185929/images/simple-suits-addon-rebooted-v100_10.png)
-
-This is the first release of the rebooted version f the clothes addon and I hope you may love it thanks, you can suggest me some more ideas for the next update  
+Feel free to message me for improvements of the content thank you  
   
 
 <div style="text-align: center;"><strong>TRY ONE OF MY CONTENTS HERE TOO:</strong></div>
