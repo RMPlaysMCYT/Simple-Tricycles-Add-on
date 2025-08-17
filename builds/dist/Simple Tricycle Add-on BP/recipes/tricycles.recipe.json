@@ -8,7 +8,7 @@
 			"crafting_table"
 		],
 		"pattern": [
-			"BB ",
+			"BBP",
 			"MSF",
 			"W W"
 		],
@@ -17,7 +17,7 @@
 				"item": "minecraft:oak_slab"
 			},
 			"F": {
-				"item": "minecraft:fence"
+				"item": "minecraft:oak_fence"
 			},
 			"M": {
 				"item": "minecraft:redstone"
@@ -27,23 +27,14 @@
 			},
 			"W": {
 				"item": "minecraft:black_terracotta"
+			},
+			"P": {
+				"item": "minecraft:red_dye"
 			}
 		},
 		"result": [
 			{
 				"item": "rmtricycle2:tricycle_1_spawn_egg",
-				"count": 2
-			},
-			{
-				"item": "rmtricycle2:tricycle_2_spawn_egg",
-				"count": 2
-			},
-			{
-				"item": "rmtricycle2:tricycle_2_spawn_egg",
-				"count": 2
-			},
-			{
-				"item": "rmtricycle2:tricycle_3_spawn_egg",
 				"count": 2
 			}
 		]

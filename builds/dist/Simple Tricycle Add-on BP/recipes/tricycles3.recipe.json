@@ -1,0 +1,42 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "rmtricycle2:tricycles3"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"BMP",
+			"MSF",
+			"W W"
+		],
+		"key": {
+			"B": {
+				"item": "minecraft:oak_slab"
+			},
+			"F": {
+				"item": "minecraft:oak_fence"
+			},
+			"M": {
+				"item": "minecraft:redstone"
+			},
+			"S": {
+				"item": "minecraft:oak_stairs"
+			},
+			"W": {
+				"item": "minecraft:black_terracotta"
+			},
+			"P": {
+				"item": "minecraft:red_dye"
+			}
+		},
+		"result": [
+			{
+				"item": "rmtricycle2:tricycle_3_spawn_egg",
+				"count": 2
+			}
+		]
+	}
+}
