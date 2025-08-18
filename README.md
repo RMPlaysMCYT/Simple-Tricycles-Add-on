@@ -21,7 +21,17 @@ Feel free to message me for improvements of the content thank you
 
 <div style="text-align: center;"><strong>TRY ONE OF MY CONTENTS HERE TOO:</strong></div>
 
-<div><br><a href="https://www.curseforge.com/minecraft-bedrock/addons/rms-cafe-add-on" target="_blank" rel="nofollow noopener"><img src="https://media.forgecdn.net/avatars/thumbnails/1259/753/256/256/638820232605005333.png"></a><a href="https://www.curseforge.com/minecraft-bedrock/addons/simple-vehicles-add-on-bedrock" target="_blank" rel="nofollow noopener"><img src="https://media.forgecdn.net/attachments/description/null/description_92209d02-7d22-48aa-9795-2912961d27df.png" alt="" width="256" height="256"></a><a href="https://www.curseforge.com/minecraft-bedrock/addons/props-and-furnitures-addon" target="_blank" rel="nofollow noopener"><img src="https://media.forgecdn.net/attachments/description/null/description_01d5879c-1755-4bd6-90a4-0b2bc22d1b0c.png" alt=""></a></div>
+<div>
+    <br>
+    <a href="https://www.curseforge.com/minecraft-bedrock/addons/rms-cafe-add-on" target="_blank" rel="nofollow noopener">
+        <img style="width: 200px;" src="https://media.forgecdn.net/avatars/thumbnails/1259/753/256/256/638820232605005333.png"></a>
+    <a href="https://www.curseforge.com/minecraft-bedrock/addons/simple-vehicles-add-on-bedrock" target="_blank" rel="nofollow noopener">
+        <img style="width: 200px; height:200px;" src="https://media.forgecdn.net/attachments/description/null/description_92209d02-7d22-48aa-9795-2912961d27df.png" alt="" width="256" height="256">
+    </a>
+    <a href="https://www.curseforge.com/minecraft-bedrock/addons/props-and-furnitures-addon" target="_blank" rel="nofollow noopener"
+        ><img style="width: 200px; height:200px;" src="https://media.forgecdn.net/attachments/description/null/description_01d5879c-1755-4bd6-90a4-0b2bc22d1b0c.png" alt="">
+    </a>
+</div>
 
 <div><br><br></div>
 
