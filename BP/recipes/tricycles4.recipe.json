@@ -32,11 +32,11 @@
                 "item": "minecraft:iron_ingot"
             }
         },
-        "result": [
+        "result": 
             {
                 "item": "rmtricycle2:tricycle_4_spawn_egg",
                 "count": 2
             }
-        ]
+        
     }
 }

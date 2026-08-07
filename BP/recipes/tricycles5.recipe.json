@@ -32,11 +32,9 @@
                 "item": "minecraft:slime_ball"
             }
         },
-        "result": [
-            {
-                "item": "rmtricycle2:tricycle_5_spawn_egg",
-                "count": 2
-            }
-        ]
+        "result": {
+            "item": "rmtricycle2:tricycle_5_spawn_egg",
+            "count": 2
+        }
     }
 }
