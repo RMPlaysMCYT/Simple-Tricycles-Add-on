@@ -32,11 +32,11 @@
                 "item": "minecraft:red_dye"
             }
         },
-        "result": [
+        "result": 
             {
                 "item": "rmtricycle2:tricycle_1_spawn_egg",
                 "count": 2
             }
-        ]
+        
     }
 }

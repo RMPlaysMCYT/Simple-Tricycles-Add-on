@@ -136,7 +136,7 @@
 				"max": 1
 			},
 			"minecraft:loot": {
-				"table": "loot_tables/entities/tricycle_1.json"
+				"table": "loot_tables/entities/tricycle_3.json"
 			},
 			"minecraft:shooter": {
 				"def": "minecraft:shulker_bullet"
